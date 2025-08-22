@@ -7,7 +7,7 @@ I'm excited to introduce this script to provide a good and lightweight alternati
 
 ## 📦 What You Need
 - **[Denizen Script](https://ci.citizensnpcs.co/job/Denizen_Developmental/)**
-- **dLogin**
+- **[dLogin](https://github.com/n1llsqq/dLogin)**
 
 Just drop Denizen Script into your server's `plugins` folder and dLogin into `denizen/scripts` folder
 ## 🎯 Why Use This Script?
