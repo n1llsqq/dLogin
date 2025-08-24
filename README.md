@@ -16,7 +16,6 @@ Just drop Denizen Script into your server's `plugins` folder and dLogin into `de
 - 📝 **Flexable** config
 - 🔑 **High password protection level**
 
-*In future*: automatic log in for license players and fully supported `online-mode: true` features!
 # dLogin — OpenSource Software
 Author / Owner: **n1llsqq** (also known as **n1lls**)<br>Original Creator: **n1llsqq**<br>License: **MIT**
 
